@@ -1,2 +1,4 @@
 # Hello-world
-My first repository on GitHub
+This is My first repository on GitHub
+My name is fahad and i am Geographic information analyst
+i want to be a programmer, and i want to used in my major in futuer.
