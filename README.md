@@ -2,5 +2,5 @@
 This is My first repository on GitHub
 
 
-My name is fahad and i am Geographic information analyst
+My name is fahad and i am Geographic information system analyst.
 i want to be a programmer, and i want to used in my major in futuer.
